@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Useros\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\pract4_OKFKS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C9D35CA-3CF0-480C-8363-1142C3D36EAF}|pract4_OKFKS_Tests\\pract4_OKFKS_Tests.csproj|c:\\users\\useros\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\pract4_okfks\\pract4_okfks_tests\\triangleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C9D35CA-3CF0-480C-8363-1142C3D36EAF}|pract4_OKFKS_Tests\\pract4_OKFKS_Tests.csproj|solutionrelative:pract4_okfks_tests\\triangleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6C9D35CA-3CF0-480C-8363-1142C3D36EAF}|pract4_OKFKS_Tests\\pract4_OKFKS_Tests.csproj|c:\\users\\useros\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\pract4_okfks\\pract4_okfks_tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9D35CA-3CF0-480C-8363-1142C3D36EAF}|pract4_OKFKS_Tests\\pract4_OKFKS_Tests.csproj|solutionrelative:pract4_okfks_tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8434184-E4D2-41FA-8BDC-5CF61D8B17E9}|pract4_OKFKS\\pract4_OKFKS.csproj|c:\\users\\useros\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\pract4_okfks\\pract4_okfks\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{F8434184-E4D2-41FA-8BDC-5CF61D8B17E9}|pract4_OKFKS\\pract4_OKFKS.csproj|c:\\users\\useros\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\pract4_okfks\\pract4_okfks\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8434184-E4D2-41FA-8BDC-5CF61D8B17E9}|pract4_OKFKS\\pract4_OKFKS.csproj|solutionrelative:pract4_okfks\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9D35CA-3CF0-480C-8363-1142C3D36EAF}|pract4_OKFKS_Tests\\pract4_OKFKS_Tests.csproj|c:\\users\\useros\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\pract4_okfks\\pract4_okfks_tests\\triangleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9D35CA-3CF0-480C-8363-1142C3D36EAF}|pract4_OKFKS_Tests\\pract4_OKFKS_Tests.csproj|solutionrelative:pract4_okfks_tests\\triangleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8434184-E4D2-41FA-8BDC-5CF61D8B17E9}|pract4_OKFKS\\pract4_OKFKS.csproj|c:\\users\\useros\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u043D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\pract4_okfks\\pract4_okfks\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,12 +35,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Useros\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\pract4_OKFKS\\pract4_OKFKS_Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "pract4_OKFKS_Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Useros\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\pract4_OKFKS\\pract4_OKFKS_Tests\\UnitTest1.cs",
+              "RelativeToolTip": "pract4_OKFKS_Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwD0AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T16:19:23.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "TriangleClass.cs",
               "DocumentMoniker": "C:\\Users\\Useros\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\pract4_OKFKS\\pract4_OKFKS_Tests\\TriangleClass.cs",
               "RelativeDocumentMoniker": "pract4_OKFKS_Tests\\TriangleClass.cs",
               "ToolTip": "C:\\Users\\Useros\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\pract4_OKFKS\\pract4_OKFKS_Tests\\TriangleClass.cs",
               "RelativeToolTip": "pract4_OKFKS_Tests\\TriangleClass.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAIwDQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAUwD8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-19T16:06:51.155Z",
               "EditorCaption": ""
@@ -49,9 +66,10 @@
               "RelativeDocumentMoniker": "pract4_OKFKS\\Triangle.cs",
               "ToolTip": "C:\\Users\\Useros\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\pract4_OKFKS\\pract4_OKFKS\\Triangle.cs",
               "RelativeToolTip": "pract4_OKFKS\\Triangle.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAIA0wEsAAABwAAAA",
+              "ViewState": "AgIAAC4AAAAAAAAAAADwv0sAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T08:48:20.166Z"
+              "WhenOpened": "2026-03-13T08:48:20.166Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -61,14 +79,14 @@
               "RelativeDocumentMoniker": "pract4_OKFKS\\Rectangle.cs",
               "ToolTip": "C:\\Users\\Useros\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\pract4_OKFKS\\pract4_OKFKS\\Rectangle.cs",
               "RelativeToolTip": "pract4_OKFKS\\Rectangle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-06T09:38:14.399Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Shape.cs",
               "DocumentMoniker": "C:\\Users\\Useros\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u041D\u043E\u0432\u0430\u044F \u043F\u0430\u043F\u043A\u0430\\pract4_OKFKS\\pract4_OKFKS\\Shape.cs",
               "RelativeDocumentMoniker": "pract4_OKFKS\\Shape.cs",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pract4_OKFKS_Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39bdd6365657cec05438c1181e0f6e5f98a3b769")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec182674eb3019597c63c1059c09c091335162e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("pract4_OKFKS_Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pract4_OKFKS_Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

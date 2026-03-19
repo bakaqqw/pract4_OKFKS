@@ -1023,7 +1023,10 @@
       "xunit.runner.visualstudio/2.5.3": {},
       "pract4_OKFKS/1.0.0": {
         "runtime": {
-          "pract4_OKFKS.dll": {}
+          "pract4_OKFKS.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
