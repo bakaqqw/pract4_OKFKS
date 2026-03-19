@@ -1,0 +1,67 @@
+﻿using pract4_OKFKS;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace pract4_OKFKS_Tests
+{
+    public class TriangleClass
+    {
+        [Fact]
+        public void CreateTriangle()
+        {
+            pract4_OKFKS.Triangle tri = new pract4_OKFKS.Triangle();
+            Assert.NotNull(tri);
+        }
+
+        [Fact]
+        public void TriangleArea_Check()
+        {
+            Triangle tri = new Triangle();
+            tri.SideA = 5;
+            tri.SideB = 5;
+            tri.SideC = 5;
+
+            Assert.Equal(10.825317547305483, tri.Area());
+        }
+
+        [Fact]
+        public void TriangleArea_CheckEx()
+        {
+            Triangle tri = new Triangle();
+            tri.SideA = -5;
+            tri.SideB = 5;
+            tri.SideC = 5;
+
+            var ex = Assert.Throws<ArgumentException>(() => tri.Area());
+
+            Assert.Contains("error!", ex.Message.ToString());
+        }
+
+        [Fact]
+        public void TrianglePerimetre_Check()
+        {
+            Triangle tri = new Triangle();
+            tri.SideA = 5;
+            tri.SideB = 5;
+            tri.SideC = 5;
+
+            Assert.Equal(15, tri.Perimeter());
+        }
+
+        [Fact]
+        public void TrianglePerimetre_CheckEx()
+        {
+            Triangle tri = new Triangle();
+            tri.SideA = -5;
+            tri.SideB = 5;
+            tri.SideC = 5;
+
+            var ex = Assert.Throws<ArgumentException>(() => tri.Perimeter());
+
+            Assert.Contains("error!", ex.Message.ToString());
+        }
+    }
+}

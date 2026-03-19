@@ -10,3 +10,15 @@ C:\Users\st310-04\Desktop\Удилов\pract4_OKFKS\pract4_OKFKS\obj\Debug\net8.
 C:\Users\st310-04\Desktop\Удилов\pract4_OKFKS\pract4_OKFKS\obj\Debug\net8.0\refint\pract4_OKFKS.dll
 C:\Users\st310-04\Desktop\Удилов\pract4_OKFKS\pract4_OKFKS\obj\Debug\net8.0\pract4_OKFKS.pdb
 C:\Users\st310-04\Desktop\Удилов\pract4_OKFKS\pract4_OKFKS\obj\Debug\net8.0\ref\pract4_OKFKS.dll
+C:\Users\Useros\OneDrive\Рабочий стол\Новая папка\pract4_OKFKS\pract4_OKFKS\bin\Debug\net8.0\pract4_OKFKS.deps.json
+C:\Users\Useros\OneDrive\Рабочий стол\Новая папка\pract4_OKFKS\pract4_OKFKS\bin\Debug\net8.0\pract4_OKFKS.dll
+C:\Users\Useros\OneDrive\Рабочий стол\Новая папка\pract4_OKFKS\pract4_OKFKS\bin\Debug\net8.0\pract4_OKFKS.pdb
+C:\Users\Useros\OneDrive\Рабочий стол\Новая папка\pract4_OKFKS\pract4_OKFKS\obj\Debug\net8.0\pract4_OKFKS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Useros\OneDrive\Рабочий стол\Новая папка\pract4_OKFKS\pract4_OKFKS\obj\Debug\net8.0\pract4_OKFKS.AssemblyInfoInputs.cache
+C:\Users\Useros\OneDrive\Рабочий стол\Новая папка\pract4_OKFKS\pract4_OKFKS\obj\Debug\net8.0\pract4_OKFKS.AssemblyInfo.cs
+C:\Users\Useros\OneDrive\Рабочий стол\Новая папка\pract4_OKFKS\pract4_OKFKS\obj\Debug\net8.0\pract4_OKFKS.csproj.CoreCompileInputs.cache
+C:\Users\Useros\OneDrive\Рабочий стол\Новая папка\pract4_OKFKS\pract4_OKFKS\obj\Debug\net8.0\pract4_OKFKS.sourcelink.json
+C:\Users\Useros\OneDrive\Рабочий стол\Новая папка\pract4_OKFKS\pract4_OKFKS\obj\Debug\net8.0\pract4_OKFKS.dll
+C:\Users\Useros\OneDrive\Рабочий стол\Новая папка\pract4_OKFKS\pract4_OKFKS\obj\Debug\net8.0\refint\pract4_OKFKS.dll
+C:\Users\Useros\OneDrive\Рабочий стол\Новая папка\pract4_OKFKS\pract4_OKFKS\obj\Debug\net8.0\pract4_OKFKS.pdb
+C:\Users\Useros\OneDrive\Рабочий стол\Новая папка\pract4_OKFKS\pract4_OKFKS\obj\Debug\net8.0\ref\pract4_OKFKS.dll
