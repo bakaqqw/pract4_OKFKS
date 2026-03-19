@@ -9,6 +9,7 @@ namespace pract4_OKFKS
     public class Rectangle : Shape
     {
         private double _width = 0.0;
+        private double _height = 0.0;
 
         public double Width
         {
@@ -21,9 +22,6 @@ namespace pract4_OKFKS
                 }
             }
         }
-
-        private double _height = 0.0;
-
         public double Height
         {
             get => _height;
@@ -36,26 +34,27 @@ namespace pract4_OKFKS
             }
         }
 
-        public override double Area() // Площадь
+        public override double Area()
         {
             if (Width < 1 || Height < 1)
             {
-                throw new ArgumentException("Недопустимые числа, попробуй другие!");
+                throw new ArgumentException("error!");
             }
+
             return checked(Width * Height);
         }
-
         public override double Perimeter()
         {
             if (Width < 1 || Height < 1)
             {
-                throw new ArgumentException("Недопустимые числа, попробуй другие!");
+                throw new ArgumentException("error!");
             }
-            return checked(2 * (Width * Height));
+
+            return checked(2 * (Width + Height));
         }
         public override string ToString()
         {
-            return $"Инф-ция о прямоугольнике: \nШирина: {Width}\nВысота: {Height}";
+            return $"Информация о прямоугольнике:\nШирина: {Width}\nВысота: {Height}";
         }
 
     }
